@@ -5,18 +5,18 @@
         <description>All Posts | Seismo-Sci</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luowanxin@cug.edu.cn (Wanxin Luo)</managingEditor>
             <webMaster>luowanxin@cug.edu.cn (Wanxin Luo)</webMaster><lastBuildDate>Sun, 06 Nov 2022 19:40:30 &#43;0800</lastBuildDate><atom:link href="https://seismo-sci.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>全球地震台网的发展历史</title>
+    <title>全球地震台网的发展历程</title>
     <link>https://seismo-sci.github.io/posts/2022-11-05/</link>
     <pubDate>Sun, 06 Nov 2022 19:40:30 &#43;0800</pubDate>
     <author>Luo</author>
     <guid>https://seismo-sci.github.io/posts/2022-11-05/</guid>
     <description><![CDATA[地震台网的先驱 Milne Network
-Milne台网的布设时期为18世纪80年代晚期至1900年早期，该台网共有30台地震仪，且大多数位于海滨和中纬度城市。Milne通过这些地震台网观测记录到的面波，制作了世界最早之一的全球地震活动目录（1899）。
+Milne台网的布设时期为18世纪80年代晚期至1900年早期，该台网共有30台地震仪，且大多数位于海滨和中纬度城市。Milne通过这些地震台网观测记录到的面波，制作了世界最早之一的全球地震活动目录（Milne,1899）。
 Jesuit Network
 和Milne同一时期，国际Jesuit地震台网也开始筹划布设，这一台网主要位与美国和英国，且都为一些组合地震仪器。
 这些早期的地震台网为地震学研究做出了以下贡献：
- 建立地震波传播的基本认识； 探究一维度下的地球大尺度结构，且最终发现了地核及其液态外核（B.Gutenberg,1914）和固态内核（I.Lehman,1936）； 逐渐详细的全球地震记录和地震相位走时观测（Jeffreys,1931,The revision of seismological tables）。  核试验促进地震台网的进一步发展 在19世纪50年代期间，为了防止已有核能力的国家试验并研制新型核武器，英国、美国和前苏联希望可以商讨并制定全面禁止核试验条约（CTBT）。但由于核试验爆炸产生的地面运动仍不能被清晰地识别，很难判断是否有违反CTBT，因此进展缓慢。
-地震学在19世纪50年代是一门较小的科学。艾森豪威尔总统的科学顾问James Killian建立了一个由Lloyd Berkener主持的地震技术提升小组。]]></description>
+ 建立地震波传播的基本认识； 探究一维度下的地球大尺度结构，且最终发现了地核及其液态外核（B.Gutenberg,1914）和固态内核（I.Lehman,1936）； 逐渐详细的全球地震记录和地震相位走时观测（Jeffreys,1931）。  CTBT促进地震台网的进一步发展 在19世纪50年代期间，为了防止已有核能力的国家试验并研制新型核武器，英国、美国和前苏联希望制定全面禁止核试验条约（CTBT）。但由于核试验爆炸产生的地面运动仍不能被清晰地识别，很难判断是否有违反CTBT，导致该项目进展十分缓慢。在19世纪50年代，地震学还是一个规模较小的科学领域，但由于种种原因，
+参考文献 [1] Ringler, A. T., Anthony, R. E., Aster,R. C., Ammon, C. J., Arrowsmith, S.,Benz, H., et al. (2022). Achievements and prospects of global broadband seismographic networks after 30 years of continuous geophysical observations. Reviews of Geophysics,60, e2021RG000749. https://doi.org/10.1029/2021RG000749]]></description>
 </item>
 </channel>
 </rss>
